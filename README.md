@@ -1,4 +1,4 @@
-# Proiect-Practica
-Proiect Practica Pedagogica
+# Proiect Psihopedagogie
+Proiect Psihopedagogie
 
 Exemple de proiecte realizate
